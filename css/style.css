@@ -322,7 +322,7 @@ h4 {
 	}
 }
 
-@media all and (man-width: 699px) {
+@media all and (max-width: 699px) {
 	#nav-button {
 		display: block;
 	}
